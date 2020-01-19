@@ -81,29 +81,40 @@ However, by using GA, any traffic from China is directly delivered to an interna
 ### GLOBAL SECURITY PROTECTION
 Alibaba Cloud provides an extensive range of security solutions to protect its customers.
 In the Forex market, our [Security Center](https://www.alibabacloud.com/products/threat-detection)  , [Anti-DDoS](https://www.alibabacloud.com/product/anti-ddos) , [Web Application Firewall](https://www.alibabacloud.com/product/waf) (WAF) and [Cloud Firewall](https://www.alibabacloud.com/products/cloud-firewall)  are popular solutions, providing the DDoS mitigation, web endpoint protections, centralized security operations and application data protection to protect your financial≈data.
+
 Our Anti-DDoS Premium service mitigates Distributed Denial of Service (DDoS) attacks, which make websites and other online services unavailable by flooding or crashing the network with too much traffic.
+
 Our Anti-DDoS Premium service deals with such attacks on servers deployed outside Mainland China. Using Alibaba Cloud’s network of scrubbing centers, Anti-DDoS Premium automatically diverts DDoS attack traffic to the nearest center.
 This service provides a dedicated IP for every user, which is isolated to minimize the impact of a DDoS attack against other users. We also provide customers with detailed traffic reports and attack protection reports in real time, so you have a clear overview on the security of your business.
+
 Our Web Application Firewall (WAF) solution filters out massive numbers of malicious intrusions to ensure your application endpoint security. It detects and blocks malicious traffic directed to your websites and applications, including SQL injection attacks, cross site scripting attacks and web-shell uploading.
+
 For those Forex businesses operating in China, Cloud Firewall is a comprehensive network security solution. It supports functions including centralized policy management, network-wide traffic identification and intrusion detection.
+
 Simply put, it controls the access traffic running to and from the Internet to your ECS instances, and between your ECS instances. For example, you could use the solution’s embedded Intrusion Prevention System (IPS) to protect your HTTP and other businesses exposed to the Internet.
+
 You could also prevent abnormal external connection activities by analyzing access traffic on your network.
 Security Center is a unified security management system that recognizes, analyzes, and alerts users to security threats in real-time. With security capabilities such as ransomware protection, anti-virus protection, web tamper protection, and compliance assessments,users can automate security operations, responses, and threat tracing to secure cloud and local servers and meet regulatory compliance requirements.
 
 ### DEDICATED HOSTING USING BAREMETAL
 Forex companies often experience periods of high and low network demand and, during both the peaks and troughs, you also need to ensure the high-performance of your servers.
+
 This is where our [ECS Bare Metal Instances](https://www.alibabacloud.com/product/ebm) can help. Basedon next-generation virtualization technology, these instances feature both the elasticity of a virtual server and the high- performance and user experience of a physical server, without any virtualization overheads.
+
 In other words, this gives Forex companies the best of both worlds. Compared to peer services, an ECS Bare Metal Instance with eight vCPUs can provide a core frequency of 3.7 GHz to 4.1 GHz for better performance and a faster response.1
 ECS Bare Metal Instances also use a chip-level trusted execution environment in addition to physical server isolation. As a result, your encrypted data can only be computed in a secure and trusted environment.
 
 ### FACILITATE BUSINESS LANDING IN CHINA
 As the number one cloud provider in China, Alibaba Cloud provides a range of solutions to help Forex businesses tap into and scale up in China.
+
 [China Gateway](https://www.alibabacloud.com/china-gateway)  is one of our flagship solutions, which provides a full set of products and services to help Forex businesses tackle the most common issues when entering China.
 This includes our ICP Registration service, which is one of the first steps most businesses take before entering China. Alibaba Cloud works with experienced local partners to navigate Forex companies through the complexities of ICP registration.
+
 Our China Gateway Security solution also works in conjunction with our Information Compliance Solution to build water-tight cyber security, risk management and compliance strategies for Forex businesses operating in the China market.
 What’s more, our Information Security and Compliance consulting and support service also makes sure your business is on the right side of the law when operating in China.
 
 ## CONCLUSION
 For the Forex industry, it is vital that traders have the ability to make split-second international trades in an incredibly secure and low latency way. Happily, the cloud provides the necessary compliance, security, resilience and scalability to enable Forex traders to operate successfully on a global scale.
+
 As the convenience of cloud-based solutions, including Cloud Enterprise Network and ECS Bare Metal Instances, become more prominent, Forex traders will increasingly move to the cloud to carry out secure, efficient and compliant trading.
 If you would like to learn more about how you can use Alibaba Cloud to improve your business, please contact us at www.alibabacloud.com/contact-sales.
