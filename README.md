@@ -37,3 +37,4 @@ How can you achieve seamless connectivity on a worldwide trading stage? You may 
 
 Security and resilience are paramount concerns for the Forex industry – and for good reason. All manner of cyber criminals now use a range of online attacks to penetrate servers in the financial services industry.
 ![Alibaba Cloud Security Solutions](img/Security1.png)
+
