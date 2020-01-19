@@ -42,3 +42,9 @@ Alibaba Cloud is committed to safeguarding the cloud security for every business
 Our comprehensive Security Services defend against 800 million attacks every day and across 194 countries.
 To further protect your network, using CEN, your traffic goes through our highly secure backbone network and never passes through a public network, for example.
 CEN also features high availability and network redundancy. Between any two access points, there are at least four redundant links. If a link fails, CEN maintains normal service without network jitter or interruptions.
+
+## Regulation
+Global compliance is a necessity in the Forex industry where you need to adhere to domestic and international information security standards, as well as industry requirements.
+At Alibaba Cloud, we engage with independent third parties to verify our compliance according to various requirements.
+More specifically, we have helped business obtain an ICP license in China thanks to our expertise of this country’s market.
+![Alibaba Cloud Global Compliance](img/Security2.png)
