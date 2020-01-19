@@ -30,3 +30,10 @@ How can you achieve seamless connectivity on a worldwide trading stage? You may 
  For example, our  [Cloud Enterprise Network](https://www.alibabacloud.com/product/cen)(CEN) provides a distributed and hybrid global network that’s ideal for FX businesses that require extensive network coverage, often under high demand. Any of the network instances attached to our CEN can communicate with each other at high speed, high redundancy and low latency, for example the network latency between Beijing DC to Frankfurt DC is around 120 ms with nearly 0 percent package loss via CEN.
 ![Alibaba Cloud Network Infrastracture](img/infra.png)
  
+ CEN also gives traders access to multiple [Virtual Private Clouds ](https://www.alibabacloud.com/product/vpc) (VPCs) and regions, providing low latency communications between multiple regions such as China and the trading capitals of Frankfurt or London, for example.
+
+
+## Security
+
+Security and resilience are paramount concerns for the Forex industry – and for good reason. All manner of cyber criminals now use a range of online attacks to penetrate servers in the financial services industry.
+![Alibaba Cloud Security Solutions](img/Security1.png)
