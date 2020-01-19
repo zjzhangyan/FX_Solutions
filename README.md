@@ -38,3 +38,7 @@ How can you achieve seamless connectivity on a worldwide trading stage? You may 
 Security and resilience are paramount concerns for the Forex industry – and for good reason. All manner of cyber criminals now use a range of online attacks to penetrate servers in the financial services industry.
 ![Alibaba Cloud Security Solutions](img/Security1.png)
 
+Alibaba Cloud is committed to safeguarding the cloud security for every business. We offer a robust set of solutions at every security level, including your application, data and platform security layers.
+Our comprehensive Security Services defend against 800 million attacks every day and across 194 countries.
+To further protect your network, using CEN, your traffic goes through our highly secure backbone network and never passes through a public network, for example.
+CEN also features high availability and network redundancy. Between any two access points, there are at least four redundant links. If a link fails, CEN maintains normal service without network jitter or interruptions.
