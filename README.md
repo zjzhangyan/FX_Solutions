@@ -11,3 +11,10 @@ Forex is a global marketplace. Trading is not done at one central location but i
 The Forex market isn’t dominated by a single market exchange but instead involves a global network of exchanges and brokers around the world.
 Just as the Forex market is a global phenomenon, so is the cloud. As such, cloud-based solutions are perfectly placed to meet the global requirements of the Forex market as cloud providers offer an expanding network of nodes and deployment regions, allowing traders to seamlessly do business around the world.
 At Alibaba Cloud, for example, we operate in 61 availability zones in 20 regions around the world – with more global regions set to follow.
+
+
+Network
+The biggest issue many Forex traders face is latency – where trades need to take place on a global scale and, yet, even a five-millisecond delay can make or break a major deal.
+How can you achieve seamless connectivity on a worldwide trading stage? You may assume that by utilizing a network environment like the cloud, your risk of network latency will increase, compared to an on-site data center solution. However, many cloud computing environments now offer low latency applications for high-speed trading, fast management and real-time threat prevention.
+For example, our Cloud Enterprise Network (CEN) provides a distributed and hybrid global network that’s ideal for FX businesses that require extensive network coverage, often under high demand. Any of the network instances attached to our CEN can communicate with each other at high speed, high redundancy and low latency, for example the network latency between Beijing DC to Frankfurt DC is around 120 ms with nearly 0 percent package loss via CEN.
+     
