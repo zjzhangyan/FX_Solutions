@@ -14,7 +14,7 @@ The Forex market isn’t dominated by a single market exchange but instead invol
 
 Just as the Forex market is a global phenomenon, so is the cloud. As such, cloud-based solutions are perfectly placed to meet the global requirements of the Forex market as cloud providers offer an expanding network of nodes and deployment regions, allowing traders to seamlessly do business around the world.
 
-At Alibaba Cloud, for example, we operate in 61 availability zones in 20 regions around the world – with more global regions set to follow.
+At Alibaba Cloud, for example, we operate in 60 availability zones in 20 regions around the world – with more global regions set to follow.
 
 
 
