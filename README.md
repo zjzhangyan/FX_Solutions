@@ -56,7 +56,7 @@ Now, let’s look in more detail at some of the cloud-based solutions Alibaba Cl
 Forex businesses operating on a global scale often need to access trading servers hosted inside and outside of their region.
 Generally, access to trading servers across geographical borders occurs via the Internet and a proxy server. This usually results in a jittery connection, which is susceptible to high packet loss rates, latency issues and an inferior user experience.
 
-Our CEN and [Global Acceleration ](https://www.alibabacloud.com/product/global-acceleration)  (GA) solutions address these challenges. CEN is more than one thousand times faster than the Internet. It provides a safe and reliable, private communication environment with multi-link redundancy to guarantee high-quality communication. Any network instances attached to the CEN are interlinked and can communicate with each other, across regions.
+Our CEN and [Global Acceleration ](https://www.alibabacloud.com/product/global-acceleration)  (GA) solutions address these challenges. CEN provides a safe and reliable, private communication environment with multi-link redundancy to guarantee high-quality communication. Any network instances attached to the CEN are interlinked and can communicate with each other, across regions.
 For example, you could create a CEN instance to connect Virtual Private Clouds (VPCs) between the Beijing and Hangzhou regions
 of China. It’s a very simple process, you just need to create a CEN instance and attach the VPC networks to be connected to the other region’s CEN instance. Then, purchase a bandwidth package and set up cross-region bandwidth.
 
