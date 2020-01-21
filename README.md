@@ -66,6 +66,42 @@ CEN-Scaler works by either changing the bandwidth specifications based on a spec
 Three typical CEN reference architectures:
 ![Alibaba Cloud CEN Solution1](img/CEN1.png)
 
+On Nginx Proxy server:
+```bash
+apt update
+apt install nginx
+vim /etc/nginx/nginx.conf
+```
+Modify /etc/nginx/nginx.conf
+
+```
+user www-data;
+worker_processes auto;
+pid /run/nginx.pid;
+
+events {
+        worker_connections 1000;
+}
+
+stream {
+    upstream web_server {
+        server MT4_DC_internal_IP:443;
+    }
+
+    server {
+        listen 443;
+        proxy_pass web_server;
+    }
+}
+
+```
+then 
+
+```bash
+systemctl restart nginx
+systemctl enable nginx
+```
+
 ![Alibaba Cloud CEN Solution2](img/CEN2.png)
 
 ![Alibaba Cloud CEN Solution3](img/CEN3.png)
